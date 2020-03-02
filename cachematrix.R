@@ -24,6 +24,6 @@ cacheSolve <- function(u, ...) {
     
 chest <<- u$cally()
   n <- solve(chest, ...)
-  u$ inputy (n)
+  u$inputy (n)
   n
   }
